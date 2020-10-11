@@ -1,0 +1,28 @@
+{
+  "name": "sorting_visualizer_vue",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Sorting algorithm visualizer tool",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kronus97/sorting_visualizer_vue.git"
+  },
+  "keywords": [
+    "vue",
+    "visualizer"
+  ],
+  "author": "Kronus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kronus97/sorting_visualizer_vue/issues"
+  },
+  "homepage": "https://github.com/Kronus97/sorting_visualizer_vue#readme"
+}
